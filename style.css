@@ -1,0 +1,17 @@
+img{
+    width: 100%;
+}
+
+.image-box{
+    width: 38%;
+    margin: 0 auto;
+}
+
+.image-box-low{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.gridItem{
+    cursor: pointer;
+}
